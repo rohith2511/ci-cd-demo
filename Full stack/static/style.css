@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(to right, #74ebd5, #ACB6E5);
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+}
+
+input, button {
+    border-radius: 50px !important;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: #fff;
+}
+
+.card-title {
+    font-weight: bold;
+}
